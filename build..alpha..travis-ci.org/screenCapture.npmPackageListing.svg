@@ -1,237 +1,237 @@
 <svg height="3742" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="3742" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 15:29:58 +0000  6295382 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 15:29:58 +0000    38758 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 15:29:58 +0000     4455 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 15:29:58 +0000     1079 bytes  LICENSE</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 15:29:58 +0000    10841 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 15:29:58 +0000    29901 bytes  coverage/api/import.js.html</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 15:29:58 +0000     8899 bytes  coverage/api/index.html</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 15:29:58 +0000     4321 bytes  coverage/api/index.js.html</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 15:29:58 +0000     7618 bytes  coverage/api/init.js.html</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 15:29:58 +0000    16811 bytes  coverage/api/install.js.html</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 15:29:58 +0000     9321 bytes  coverage/api/lint.js.html</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 15:29:58 +0000    15660 bytes  coverage/api/make.js.html</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 15:29:58 +0000    13496 bytes  coverage/api/package.js.html</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 15:29:58 +0000     9282 bytes  coverage/api/publish.js.html</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 15:29:58 +0000     7588 bytes  coverage/api/start.js.html</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 15:29:58 +0000     5057 bytes  coverage/base.css</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 15:29:58 +0000     6294 bytes  coverage/index.html</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 15:29:58 +0000     7022 bytes  coverage/init/index.html</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 15:29:58 +0000     8100 bytes  coverage/init/init-custom.js.html</tspan>
-<tspan x="10" y="330"> 19.  2017-04-21 15:29:58 +0000     4531 bytes  coverage/init/init-directory.js.html</tspan>
-<tspan x="10" y="346"> 20.  2017-04-21 15:29:58 +0000     4414 bytes  coverage/init/init-git.js.html</tspan>
-<tspan x="10" y="362"> 21.  2017-04-21 15:29:58 +0000     9484 bytes  coverage/init/init-npm.js.html</tspan>
-<tspan x="10" y="378"> 22.  2017-04-21 15:29:58 +0000     4495 bytes  coverage/init/init-standard-fix.js.html</tspan>
-<tspan x="10" y="394"> 23.  2017-04-21 15:29:58 +0000     6086 bytes  coverage/init/init-starter-files.js.html</tspan>
-<tspan x="10" y="410"> 24.  2017-04-21 15:29:58 +0000    29901 bytes  coverage/lcov-report/api/import.js.html</tspan>
-<tspan x="10" y="426"> 25.  2017-04-21 15:29:58 +0000     8899 bytes  coverage/lcov-report/api/index.html</tspan>
-<tspan x="10" y="442"> 26.  2017-04-21 15:29:58 +0000     4321 bytes  coverage/lcov-report/api/index.js.html</tspan>
-<tspan x="10" y="458"> 27.  2017-04-21 15:29:58 +0000     7618 bytes  coverage/lcov-report/api/init.js.html</tspan>
-<tspan x="10" y="474"> 28.  2017-04-21 15:29:58 +0000    16811 bytes  coverage/lcov-report/api/install.js.html</tspan>
-<tspan x="10" y="490"> 29.  2017-04-21 15:29:58 +0000     9321 bytes  coverage/lcov-report/api/lint.js.html</tspan>
-<tspan x="10" y="506"> 30.  2017-04-21 15:29:58 +0000    15660 bytes  coverage/lcov-report/api/make.js.html</tspan>
-<tspan x="10" y="522"> 31.  2017-04-21 15:29:58 +0000    13496 bytes  coverage/lcov-report/api/package.js.html</tspan>
-<tspan x="10" y="538"> 32.  2017-04-21 15:29:58 +0000     9282 bytes  coverage/lcov-report/api/publish.js.html</tspan>
-<tspan x="10" y="554"> 33.  2017-04-21 15:29:58 +0000     7588 bytes  coverage/lcov-report/api/start.js.html</tspan>
-<tspan x="10" y="570"> 34.  2017-04-21 15:29:58 +0000     5057 bytes  coverage/lcov-report/base.css</tspan>
-<tspan x="10" y="586"> 35.  2017-04-21 15:29:58 +0000     6294 bytes  coverage/lcov-report/index.html</tspan>
-<tspan x="10" y="602"> 36.  2017-04-21 15:29:58 +0000     7022 bytes  coverage/lcov-report/init/index.html</tspan>
-<tspan x="10" y="618"> 37.  2017-04-21 15:29:58 +0000     8100 bytes  coverage/lcov-report/init/init-custom.js.html</tspan>
-<tspan x="10" y="634"> 38.  2017-04-21 15:29:58 +0000     4531 bytes  coverage/lcov-report/init/init-directory.js.html</tspan>
-<tspan x="10" y="650"> 39.  2017-04-21 15:29:58 +0000     4414 bytes  coverage/lcov-report/init/init-git.js.html</tspan>
-<tspan x="10" y="666"> 40.  2017-04-21 15:29:58 +0000     9484 bytes  coverage/lcov-report/init/init-npm.js.html</tspan>
-<tspan x="10" y="682"> 41.  2017-04-21 15:29:58 +0000     4495 bytes  coverage/lcov-report/init/init-standard-fix.js.h\</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 15:31:56 +0000  6295382 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 15:31:56 +0000    38758 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 15:31:56 +0000     4455 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 15:31:56 +0000     1079 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 15:31:56 +0000    10841 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 15:31:56 +0000    29901 bytes  coverage/api/import.js.html</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 15:31:56 +0000     8899 bytes  coverage/api/index.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 15:31:56 +0000     4321 bytes  coverage/api/index.js.html</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 15:31:56 +0000     7618 bytes  coverage/api/init.js.html</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 15:31:56 +0000    16811 bytes  coverage/api/install.js.html</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 15:31:56 +0000     9321 bytes  coverage/api/lint.js.html</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 15:31:56 +0000    15660 bytes  coverage/api/make.js.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 15:31:56 +0000    13496 bytes  coverage/api/package.js.html</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 15:31:56 +0000     9282 bytes  coverage/api/publish.js.html</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 15:31:56 +0000     7588 bytes  coverage/api/start.js.html</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 15:31:56 +0000     5057 bytes  coverage/base.css</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 15:31:56 +0000     6294 bytes  coverage/index.html</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 15:31:56 +0000     7022 bytes  coverage/init/index.html</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 15:31:56 +0000     8100 bytes  coverage/init/init-custom.js.html</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 15:31:56 +0000     4531 bytes  coverage/init/init-directory.js.html</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 15:31:56 +0000     4414 bytes  coverage/init/init-git.js.html</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 15:31:56 +0000     9484 bytes  coverage/init/init-npm.js.html</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 15:31:56 +0000     4495 bytes  coverage/init/init-standard-fix.js.html</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 15:31:56 +0000     6086 bytes  coverage/init/init-starter-files.js.html</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 15:31:56 +0000    29901 bytes  coverage/lcov-report/api/import.js.html</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 15:31:56 +0000     8899 bytes  coverage/lcov-report/api/index.html</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 15:31:56 +0000     4321 bytes  coverage/lcov-report/api/index.js.html</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 15:31:56 +0000     7618 bytes  coverage/lcov-report/api/init.js.html</tspan>
+<tspan x="10" y="474"> 28.  2017-04-21 15:31:56 +0000    16811 bytes  coverage/lcov-report/api/install.js.html</tspan>
+<tspan x="10" y="490"> 29.  2017-04-21 15:31:56 +0000     9321 bytes  coverage/lcov-report/api/lint.js.html</tspan>
+<tspan x="10" y="506"> 30.  2017-04-21 15:31:56 +0000    15660 bytes  coverage/lcov-report/api/make.js.html</tspan>
+<tspan x="10" y="522"> 31.  2017-04-21 15:31:56 +0000    13496 bytes  coverage/lcov-report/api/package.js.html</tspan>
+<tspan x="10" y="538"> 32.  2017-04-21 15:31:56 +0000     9282 bytes  coverage/lcov-report/api/publish.js.html</tspan>
+<tspan x="10" y="554"> 33.  2017-04-21 15:31:56 +0000     7588 bytes  coverage/lcov-report/api/start.js.html</tspan>
+<tspan x="10" y="570"> 34.  2017-04-21 15:31:56 +0000     5057 bytes  coverage/lcov-report/base.css</tspan>
+<tspan x="10" y="586"> 35.  2017-04-21 15:31:56 +0000     6294 bytes  coverage/lcov-report/index.html</tspan>
+<tspan x="10" y="602"> 36.  2017-04-21 15:31:56 +0000     7022 bytes  coverage/lcov-report/init/index.html</tspan>
+<tspan x="10" y="618"> 37.  2017-04-21 15:31:56 +0000     8100 bytes  coverage/lcov-report/init/init-custom.js.html</tspan>
+<tspan x="10" y="634"> 38.  2017-04-21 15:31:56 +0000     4531 bytes  coverage/lcov-report/init/init-directory.js.html</tspan>
+<tspan x="10" y="650"> 39.  2017-04-21 15:31:56 +0000     4414 bytes  coverage/lcov-report/init/init-git.js.html</tspan>
+<tspan x="10" y="666"> 40.  2017-04-21 15:31:56 +0000     9484 bytes  coverage/lcov-report/init/init-npm.js.html</tspan>
+<tspan x="10" y="682"> 41.  2017-04-21 15:31:56 +0000     4495 bytes  coverage/lcov-report/init/init-standard-fix.js.h\</tspan>
 <tspan x="10" y="698">tml</tspan>
-<tspan x="10" y="714"> 42.  2017-04-21 15:29:58 +0000     6086 bytes  coverage/lcov-report/init/init-starter-files.js.\</tspan>
+<tspan x="10" y="714"> 42.  2017-04-21 15:31:56 +0000     6086 bytes  coverage/lcov-report/init/init-starter-files.js.\</tspan>
 <tspan x="10" y="730">html</tspan>
-<tspan x="10" y="746"> 43.  2017-04-21 15:29:58 +0000     3572 bytes  coverage/lcov-report/makers/generic/index.html</tspan>
-<tspan x="10" y="762"> 44.  2017-04-21 15:29:58 +0000     6329 bytes  coverage/lcov-report/makers/generic/zip.js.html</tspan>
-<tspan x="10" y="778"> 45.  2017-04-21 15:29:58 +0000     5286 bytes  coverage/lcov-report/makers/linux/deb.js.html</tspan>
-<tspan x="10" y="794"> 46.  2017-04-21 15:29:58 +0000     5163 bytes  coverage/lcov-report/makers/linux/flatpak.js.htm\</tspan>
+<tspan x="10" y="746"> 43.  2017-04-21 15:31:56 +0000     3572 bytes  coverage/lcov-report/makers/generic/index.html</tspan>
+<tspan x="10" y="762"> 44.  2017-04-21 15:31:56 +0000     6329 bytes  coverage/lcov-report/makers/generic/zip.js.html</tspan>
+<tspan x="10" y="778"> 45.  2017-04-21 15:31:56 +0000     5286 bytes  coverage/lcov-report/makers/linux/deb.js.html</tspan>
+<tspan x="10" y="794"> 46.  2017-04-21 15:31:56 +0000     5163 bytes  coverage/lcov-report/makers/linux/flatpak.js.htm\</tspan>
 <tspan x="10" y="810">l</tspan>
-<tspan x="10" y="826"> 47.  2017-04-21 15:29:58 +0000     4905 bytes  coverage/lcov-report/makers/linux/index.html</tspan>
-<tspan x="10" y="842"> 48.  2017-04-21 15:29:58 +0000     5273 bytes  coverage/lcov-report/makers/linux/rpm.js.html</tspan>
-<tspan x="10" y="858"> 49.  2017-04-21 15:29:58 +0000      676 bytes  coverage/lcov-report/prettify.css</tspan>
-<tspan x="10" y="874"> 50.  2017-04-21 15:29:58 +0000    17569 bytes  coverage/lcov-report/prettify.js</tspan>
-<tspan x="10" y="890"> 51.  2017-04-21 15:29:58 +0000      209 bytes  coverage/lcov-report/sort-arrow-sprite.png</tspan>
-<tspan x="10" y="906"> 52.  2017-04-21 15:29:58 +0000     5174 bytes  coverage/lcov-report/sorter.js</tspan>
-<tspan x="10" y="922"> 53.  2017-04-21 15:29:58 +0000     3231 bytes  coverage/lcov-report/util/check-system.js.html</tspan>
-<tspan x="10" y="938"> 54.  2017-04-21 15:29:58 +0000     5913 bytes  coverage/lcov-report/util/compile-hook.js.html</tspan>
-<tspan x="10" y="954"> 55.  2017-04-21 15:29:58 +0000     5873 bytes  coverage/lcov-report/util/config.js.html</tspan>
-<tspan x="10" y="970"> 56.  2017-04-21 15:29:58 +0000     3141 bytes  coverage/lcov-report/util/confirm-if-interactive\</tspan>
+<tspan x="10" y="826"> 47.  2017-04-21 15:31:56 +0000     4905 bytes  coverage/lcov-report/makers/linux/index.html</tspan>
+<tspan x="10" y="842"> 48.  2017-04-21 15:31:56 +0000     5273 bytes  coverage/lcov-report/makers/linux/rpm.js.html</tspan>
+<tspan x="10" y="858"> 49.  2017-04-21 15:31:56 +0000      676 bytes  coverage/lcov-report/prettify.css</tspan>
+<tspan x="10" y="874"> 50.  2017-04-21 15:31:56 +0000    17569 bytes  coverage/lcov-report/prettify.js</tspan>
+<tspan x="10" y="890"> 51.  2017-04-21 15:31:56 +0000      209 bytes  coverage/lcov-report/sort-arrow-sprite.png</tspan>
+<tspan x="10" y="906"> 52.  2017-04-21 15:31:56 +0000     5174 bytes  coverage/lcov-report/sorter.js</tspan>
+<tspan x="10" y="922"> 53.  2017-04-21 15:31:56 +0000     3231 bytes  coverage/lcov-report/util/check-system.js.html</tspan>
+<tspan x="10" y="938"> 54.  2017-04-21 15:31:56 +0000     5913 bytes  coverage/lcov-report/util/compile-hook.js.html</tspan>
+<tspan x="10" y="954"> 55.  2017-04-21 15:31:56 +0000     5873 bytes  coverage/lcov-report/util/config.js.html</tspan>
+<tspan x="10" y="970"> 56.  2017-04-21 15:31:56 +0000     3141 bytes  coverage/lcov-report/util/confirm-if-interactive\</tspan>
 <tspan x="10" y="986">.js.html</tspan>
-<tspan x="10" y="1002"> 57.  2017-04-21 15:29:58 +0000     2944 bytes  coverage/lcov-report/util/electron-host-arch.js.\</tspan>
+<tspan x="10" y="1002"> 57.  2017-04-21 15:31:56 +0000     2944 bytes  coverage/lcov-report/util/electron-host-arch.js.\</tspan>
 <tspan x="10" y="1018">html</tspan>
-<tspan x="10" y="1034"> 58.  2017-04-21 15:29:58 +0000     3950 bytes  coverage/lcov-report/util/ensure-output.js.html</tspan>
-<tspan x="10" y="1050"> 59.  2017-04-21 15:29:58 +0000     7149 bytes  coverage/lcov-report/util/forge-config.js.html</tspan>
-<tspan x="10" y="1066"> 60.  2017-04-21 15:29:58 +0000     4145 bytes  coverage/lcov-report/util/github.js.html</tspan>
-<tspan x="10" y="1082"> 61.  2017-04-21 15:29:58 +0000    13191 bytes  coverage/lcov-report/util/index.html</tspan>
-<tspan x="10" y="1098"> 62.  2017-04-21 15:29:58 +0000     5778 bytes  coverage/lcov-report/util/install-dependencies.j\</tspan>
+<tspan x="10" y="1034"> 58.  2017-04-21 15:31:56 +0000     3950 bytes  coverage/lcov-report/util/ensure-output.js.html</tspan>
+<tspan x="10" y="1050"> 59.  2017-04-21 15:31:56 +0000     7149 bytes  coverage/lcov-report/util/forge-config.js.html</tspan>
+<tspan x="10" y="1066"> 60.  2017-04-21 15:31:56 +0000     4145 bytes  coverage/lcov-report/util/github.js.html</tspan>
+<tspan x="10" y="1082"> 61.  2017-04-21 15:31:56 +0000    13191 bytes  coverage/lcov-report/util/index.html</tspan>
+<tspan x="10" y="1098"> 62.  2017-04-21 15:31:56 +0000     5778 bytes  coverage/lcov-report/util/install-dependencies.j\</tspan>
 <tspan x="10" y="1114">s.html</tspan>
-<tspan x="10" y="1130"> 63.  2017-04-21 15:29:58 +0000     5791 bytes  coverage/lcov-report/util/ora-handler.js.html</tspan>
-<tspan x="10" y="1146"> 64.  2017-04-21 15:29:58 +0000     5842 bytes  coverage/lcov-report/util/ora.js.html</tspan>
-<tspan x="10" y="1162"> 65.  2017-04-21 15:29:58 +0000     2792 bytes  coverage/lcov-report/util/read-package-json.js.h\</tspan>
+<tspan x="10" y="1130"> 63.  2017-04-21 15:31:56 +0000     5791 bytes  coverage/lcov-report/util/ora-handler.js.html</tspan>
+<tspan x="10" y="1146"> 64.  2017-04-21 15:31:56 +0000     5842 bytes  coverage/lcov-report/util/ora.js.html</tspan>
+<tspan x="10" y="1162"> 65.  2017-04-21 15:31:56 +0000     2792 bytes  coverage/lcov-report/util/read-package-json.js.h\</tspan>
 <tspan x="10" y="1178">tml</tspan>
-<tspan x="10" y="1194"> 66.  2017-04-21 15:29:58 +0000     4047 bytes  coverage/lcov-report/util/rebuild.js.html</tspan>
-<tspan x="10" y="1210"> 67.  2017-04-21 15:29:58 +0000     4137 bytes  coverage/lcov-report/util/require-search.js.html</tspan>
-<tspan x="10" y="1226"> 68.  2017-04-21 15:29:58 +0000     5444 bytes  coverage/lcov-report/util/resolve-dir.js.html</tspan>
-<tspan x="10" y="1242"> 69.  2017-04-21 15:29:58 +0000    19844 bytes  coverage/lcov.info</tspan>
-<tspan x="10" y="1258"> 70.  2017-04-21 15:29:58 +0000     3572 bytes  coverage/makers/generic/index.html</tspan>
-<tspan x="10" y="1274"> 71.  2017-04-21 15:29:58 +0000     6329 bytes  coverage/makers/generic/zip.js.html</tspan>
-<tspan x="10" y="1290"> 72.  2017-04-21 15:29:58 +0000     5286 bytes  coverage/makers/linux/deb.js.html</tspan>
-<tspan x="10" y="1306"> 73.  2017-04-21 15:29:58 +0000     5163 bytes  coverage/makers/linux/flatpak.js.html</tspan>
-<tspan x="10" y="1322"> 74.  2017-04-21 15:29:58 +0000     4905 bytes  coverage/makers/linux/index.html</tspan>
-<tspan x="10" y="1338"> 75.  2017-04-21 15:29:58 +0000     5273 bytes  coverage/makers/linux/rpm.js.html</tspan>
-<tspan x="10" y="1354"> 76.  2017-04-21 15:29:58 +0000      676 bytes  coverage/prettify.css</tspan>
-<tspan x="10" y="1370"> 77.  2017-04-21 15:29:58 +0000    17569 bytes  coverage/prettify.js</tspan>
-<tspan x="10" y="1386"> 78.  2017-04-21 15:29:58 +0000      209 bytes  coverage/sort-arrow-sprite.png</tspan>
-<tspan x="10" y="1402"> 79.  2017-04-21 15:29:58 +0000     5174 bytes  coverage/sorter.js</tspan>
-<tspan x="10" y="1418"> 80.  2017-04-21 15:29:58 +0000     3231 bytes  coverage/util/check-system.js.html</tspan>
-<tspan x="10" y="1434"> 81.  2017-04-21 15:29:58 +0000     5913 bytes  coverage/util/compile-hook.js.html</tspan>
-<tspan x="10" y="1450"> 82.  2017-04-21 15:29:58 +0000     5873 bytes  coverage/util/config.js.html</tspan>
-<tspan x="10" y="1466"> 83.  2017-04-21 15:29:58 +0000     3141 bytes  coverage/util/confirm-if-interactive.js.html</tspan>
-<tspan x="10" y="1482"> 84.  2017-04-21 15:29:58 +0000     2944 bytes  coverage/util/electron-host-arch.js.html</tspan>
-<tspan x="10" y="1498"> 85.  2017-04-21 15:29:58 +0000     3950 bytes  coverage/util/ensure-output.js.html</tspan>
-<tspan x="10" y="1514"> 86.  2017-04-21 15:29:58 +0000     7149 bytes  coverage/util/forge-config.js.html</tspan>
-<tspan x="10" y="1530"> 87.  2017-04-21 15:29:58 +0000     4145 bytes  coverage/util/github.js.html</tspan>
-<tspan x="10" y="1546"> 88.  2017-04-21 15:29:58 +0000    13191 bytes  coverage/util/index.html</tspan>
-<tspan x="10" y="1562"> 89.  2017-04-21 15:29:58 +0000     5778 bytes  coverage/util/install-dependencies.js.html</tspan>
-<tspan x="10" y="1578"> 90.  2017-04-21 15:29:58 +0000     5791 bytes  coverage/util/ora-handler.js.html</tspan>
-<tspan x="10" y="1594"> 91.  2017-04-21 15:29:58 +0000     5842 bytes  coverage/util/ora.js.html</tspan>
-<tspan x="10" y="1610"> 92.  2017-04-21 15:29:58 +0000     2792 bytes  coverage/util/read-package-json.js.html</tspan>
-<tspan x="10" y="1626"> 93.  2017-04-21 15:29:58 +0000     4047 bytes  coverage/util/rebuild.js.html</tspan>
-<tspan x="10" y="1642"> 94.  2017-04-21 15:29:58 +0000     4137 bytes  coverage/util/require-search.js.html</tspan>
-<tspan x="10" y="1658"> 95.  2017-04-21 15:29:58 +0000     5444 bytes  coverage/util/resolve-dir.js.html</tspan>
-<tspan x="10" y="1674"> 96.  2017-04-21 15:29:58 +0000    24192 bytes  dist/api/import.js</tspan>
-<tspan x="10" y="1690"> 97.  2017-04-21 15:29:58 +0000     1433 bytes  dist/api/index.js</tspan>
-<tspan x="10" y="1706"> 98.  2017-04-21 15:29:58 +0000     4511 bytes  dist/api/init.js</tspan>
-<tspan x="10" y="1722"> 99.  2017-04-21 15:29:58 +0000    14421 bytes  dist/api/install.js</tspan>
-<tspan x="10" y="1738">100.  2017-04-21 15:29:58 +0000     5566 bytes  dist/api/lint.js</tspan>
-<tspan x="10" y="1754">101.  2017-04-21 15:29:58 +0000    16082 bytes  dist/api/make.js</tspan>
-<tspan x="10" y="1770">102.  2017-04-21 15:29:58 +0000    14446 bytes  dist/api/package.js</tspan>
-<tspan x="10" y="1786">103.  2017-04-21 15:29:58 +0000     8938 bytes  dist/api/publish.js</tspan>
-<tspan x="10" y="1802">104.  2017-04-21 15:29:58 +0000     6024 bytes  dist/api/start.js</tspan>
-<tspan x="10" y="1818">105.  2017-04-21 15:29:58 +0000     1422 bytes  dist/electron-forge-import.js</tspan>
-<tspan x="10" y="1834">106.  2017-04-21 15:29:58 +0000     1750 bytes  dist/electron-forge-init.js</tspan>
-<tspan x="10" y="1850">107.  2017-04-21 15:29:58 +0000     1235 bytes  dist/electron-forge-install.js</tspan>
-<tspan x="10" y="1866">108.  2017-04-21 15:29:58 +0000     1512 bytes  dist/electron-forge-lint.js</tspan>
-<tspan x="10" y="1882">109.  2017-04-21 15:29:58 +0000     2473 bytes  dist/electron-forge-make.js</tspan>
-<tspan x="10" y="1898">110.  2017-04-21 15:29:58 +0000     1973 bytes  dist/electron-forge-package.js</tspan>
-<tspan x="10" y="1914">111.  2017-04-21 15:29:58 +0000     2184 bytes  dist/electron-forge-publish.js</tspan>
-<tspan x="10" y="1930">112.  2017-04-21 15:29:58 +0000     3319 bytes  dist/electron-forge-start.js</tspan>
-<tspan x="10" y="1946">113.  2017-04-21 15:29:58 +0000     3588 bytes  dist/electron-forge.js</tspan>
-<tspan x="10" y="1962">114.  2017-04-21 15:29:58 +0000      107 bytes  dist/forge-import.js</tspan>
-<tspan x="10" y="1978">115.  2017-04-21 15:29:58 +0000      105 bytes  dist/forge-init.js</tspan>
-<tspan x="10" y="1994">116.  2017-04-21 15:29:58 +0000      108 bytes  dist/forge-install.js</tspan>
-<tspan x="10" y="2010">117.  2017-04-21 15:29:58 +0000      105 bytes  dist/forge-lint.js</tspan>
-<tspan x="10" y="2026">118.  2017-04-21 15:29:58 +0000      105 bytes  dist/forge-make.js</tspan>
-<tspan x="10" y="2042">119.  2017-04-21 15:29:58 +0000      108 bytes  dist/forge-package.js</tspan>
-<tspan x="10" y="2058">120.  2017-04-21 15:29:58 +0000      108 bytes  dist/forge-publish.js</tspan>
-<tspan x="10" y="2074">121.  2017-04-21 15:29:58 +0000      106 bytes  dist/forge-start.js</tspan>
-<tspan x="10" y="2090">122.  2017-04-21 15:29:58 +0000      100 bytes  dist/forge.js</tspan>
-<tspan x="10" y="2106">123.  2017-04-21 15:29:58 +0000     8887 bytes  dist/init/init-custom.js</tspan>
-<tspan x="10" y="2122">124.  2017-04-21 15:29:58 +0000     3441 bytes  dist/init/init-directory.js</tspan>
-<tspan x="10" y="2138">125.  2017-04-21 15:29:58 +0000     3914 bytes  dist/init/init-git.js</tspan>
-<tspan x="10" y="2154">126.  2017-04-21 15:29:58 +0000    10194 bytes  dist/init/init-npm.js</tspan>
-<tspan x="10" y="2170">127.  2017-04-21 15:29:58 +0000     2339 bytes  dist/init/init-standard-fix.js</tspan>
-<tspan x="10" y="2186">128.  2017-04-21 15:29:58 +0000     5231 bytes  dist/init/init-starter-files.js</tspan>
-<tspan x="10" y="2202">129.  2017-04-21 15:29:58 +0000     2996 bytes  dist/installers/darwin/dmg.js</tspan>
-<tspan x="10" y="2218">130.  2017-04-21 15:29:58 +0000     2816 bytes  dist/installers/darwin/zip.js</tspan>
-<tspan x="10" y="2234">131.  2017-04-21 15:29:58 +0000      993 bytes  dist/installers/linux/deb.js</tspan>
-<tspan x="10" y="2250">132.  2017-04-21 15:29:58 +0000     1018 bytes  dist/installers/linux/rpm.js</tspan>
-<tspan x="10" y="2266">133.  2017-04-21 15:29:58 +0000     1065 bytes  dist/installers/win32/exe.js</tspan>
-<tspan x="10" y="2282">134.  2017-04-21 15:29:58 +0000     2077 bytes  dist/makers/darwin/dmg.js</tspan>
-<tspan x="10" y="2298">135.  2017-04-21 15:29:58 +0000     3024 bytes  dist/makers/generic/zip.js</tspan>
-<tspan x="10" y="2314">136.  2017-04-21 15:29:58 +0000     2425 bytes  dist/makers/linux/deb.js</tspan>
-<tspan x="10" y="2330">137.  2017-04-21 15:29:58 +0000     2422 bytes  dist/makers/linux/flatpak.js</tspan>
-<tspan x="10" y="2346">138.  2017-04-21 15:29:58 +0000     2406 bytes  dist/makers/linux/rpm.js</tspan>
-<tspan x="10" y="2362">139.  2017-04-21 15:29:58 +0000     5679 bytes  dist/makers/win32/appx.js</tspan>
-<tspan x="10" y="2378">140.  2017-04-21 15:29:58 +0000     3534 bytes  dist/makers/win32/squirrel.js</tspan>
-<tspan x="10" y="2394">141.  2017-04-21 15:29:58 +0000     8260 bytes  dist/publishers/github.js</tspan>
-<tspan x="10" y="2410">142.  2017-04-21 15:29:58 +0000     6596 bytes  dist/publishers/s3.js</tspan>
-<tspan x="10" y="2426">143.  2017-04-21 15:29:58 +0000      358 bytes  dist/util/check-supported-platforms.js</tspan>
-<tspan x="10" y="2442">144.  2017-04-21 15:29:58 +0000     1330 bytes  dist/util/check-system.js</tspan>
-<tspan x="10" y="2458">145.  2017-04-21 15:29:58 +0000     7613 bytes  dist/util/compile-hook.js</tspan>
-<tspan x="10" y="2474">146.  2017-04-21 15:29:58 +0000     2405 bytes  dist/util/config.js</tspan>
-<tspan x="10" y="2490">147.  2017-04-21 15:29:58 +0000     1491 bytes  dist/util/confirm-if-interactive.js</tspan>
-<tspan x="10" y="2506">148.  2017-04-21 15:29:58 +0000      549 bytes  dist/util/deprecate.js</tspan>
-<tspan x="10" y="2522">149.  2017-04-21 15:29:58 +0000      244 bytes  dist/util/electron-host-arch.js</tspan>
-<tspan x="10" y="2538">150.  2017-04-21 15:29:58 +0000     2654 bytes  dist/util/ensure-output.js</tspan>
-<tspan x="10" y="2554">151.  2017-04-21 15:29:58 +0000     6064 bytes  dist/util/forge-config.js</tspan>
-<tspan x="10" y="2570">152.  2017-04-21 15:29:58 +0000     1366 bytes  dist/util/github.js</tspan>
-<tspan x="10" y="2586">153.  2017-04-21 15:29:58 +0000     5016 bytes  dist/util/hdiutil.js</tspan>
-<tspan x="10" y="2602">154.  2017-04-21 15:29:58 +0000     2188 bytes  dist/util/install-dependencies.js</tspan>
-<tspan x="10" y="2618">155.  2017-04-21 15:29:58 +0000     2867 bytes  dist/util/linux-installer.js</tspan>
-<tspan x="10" y="2634">156.  2017-04-21 15:29:58 +0000      307 bytes  dist/util/messages.js</tspan>
-<tspan x="10" y="2650">157.  2017-04-21 15:29:58 +0000     3490 bytes  dist/util/move-app.js</tspan>
-<tspan x="10" y="2666">158.  2017-04-21 15:29:58 +0000     2646 bytes  dist/util/ora-handler.js</tspan>
-<tspan x="10" y="2682">159.  2017-04-21 15:29:58 +0000     1100 bytes  dist/util/ora.js</tspan>
-<tspan x="10" y="2698">160.  2017-04-21 15:29:58 +0000     1268 bytes  dist/util/read-package-json.js</tspan>
-<tspan x="10" y="2714">161.  2017-04-21 15:29:58 +0000     2750 bytes  dist/util/rebuild.js</tspan>
-<tspan x="10" y="2730">162.  2017-04-21 15:29:58 +0000     1965 bytes  dist/util/require-search.js</tspan>
-<tspan x="10" y="2746">163.  2017-04-21 15:29:58 +0000     3094 bytes  dist/util/resolve-dir.js</tspan>
-<tspan x="10" y="2762">164.  2017-04-21 15:29:58 +0000     1427 bytes  dist/util/sudo-promise.js</tspan>
-<tspan x="10" y="2778">165.  2017-04-21 15:29:58 +0000     1268 bytes  dist/util/terminate.js</tspan>
-<tspan x="10" y="2794">166.  2017-04-21 15:29:58 +0000  1334990 bytes  docs/ast/source/import.js.json</tspan>
-<tspan x="10" y="2810">167.  2017-04-21 15:29:58 +0000    68696 bytes  docs/ast/source/index.js.json</tspan>
-<tspan x="10" y="2826">168.  2017-04-21 15:29:58 +0000   233563 bytes  docs/ast/source/init.js.json</tspan>
-<tspan x="10" y="2842">169.  2017-04-21 15:29:58 +0000  1047413 bytes  docs/ast/source/install.js.json</tspan>
-<tspan x="10" y="2858">170.  2017-04-21 15:29:58 +0000   389839 bytes  docs/ast/source/lint.js.json</tspan>
-<tspan x="10" y="2874">171.  2017-04-21 15:29:58 +0000   709472 bytes  docs/ast/source/make.js.json</tspan>
-<tspan x="10" y="2890">172.  2017-04-21 15:29:58 +0000   633526 bytes  docs/ast/source/package.js.json</tspan>
-<tspan x="10" y="2906">173.  2017-04-21 15:29:58 +0000   263838 bytes  docs/ast/source/publish.js.json</tspan>
-<tspan x="10" y="2922">174.  2017-04-21 15:29:58 +0000   278264 bytes  docs/ast/source/start.js.json</tspan>
-<tspan x="10" y="2938">175.  2017-04-21 15:29:58 +0000      793 bytes  docs/badge.svg</tspan>
-<tspan x="10" y="2954">176.  2017-04-21 15:29:58 +0000      925 bytes  docs/coverage.json</tspan>
-<tspan x="10" y="2970">177.  2017-04-21 15:29:58 +0000     2026 bytes  docs/css/prettify-tomorrow.css</tspan>
-<tspan x="10" y="2986">178.  2017-04-21 15:29:58 +0000    15742 bytes  docs/css/style.css</tspan>
-<tspan x="10" y="3002">179.  2017-04-21 15:29:58 +0000    79326 bytes  docs/dump.json</tspan>
-<tspan x="10" y="3018">180.  2017-04-21 15:29:58 +0000    14115 bytes  docs/file/api/import.js.html</tspan>
-<tspan x="10" y="3034">181.  2017-04-21 15:29:58 +0000     5286 bytes  docs/file/api/index.js.html</tspan>
-<tspan x="10" y="3050">182.  2017-04-21 15:29:58 +0000     6903 bytes  docs/file/api/init.js.html</tspan>
-<tspan x="10" y="3066">183.  2017-04-21 15:29:58 +0000    11104 bytes  docs/file/api/install.js.html</tspan>
-<tspan x="10" y="3082">184.  2017-04-21 15:29:58 +0000     7194 bytes  docs/file/api/lint.js.html</tspan>
-<tspan x="10" y="3098">185.  2017-04-21 15:29:58 +0000     9830 bytes  docs/file/api/make.js.html</tspan>
-<tspan x="10" y="3114">186.  2017-04-21 15:29:58 +0000     8774 bytes  docs/file/api/package.js.html</tspan>
-<tspan x="10" y="3130">187.  2017-04-21 15:29:58 +0000     7078 bytes  docs/file/api/publish.js.html</tspan>
-<tspan x="10" y="3146">188.  2017-04-21 15:29:58 +0000     7007 bytes  docs/file/api/start.js.html</tspan>
-<tspan x="10" y="3162">189.  2017-04-21 15:29:58 +0000    30895 bytes  docs/function/index.html</tspan>
-<tspan x="10" y="3178">190.  2017-04-21 15:29:58 +0000    17498 bytes  docs/identifiers.html</tspan>
-<tspan x="10" y="3194">191.  2017-04-21 15:29:58 +0000      799 bytes  docs/image/badge.svg</tspan>
-<tspan x="10" y="3210">192.  2017-04-21 15:29:58 +0000     5651 bytes  docs/image/esdoc-logo-mini-black.png</tspan>
-<tspan x="10" y="3226">193.  2017-04-21 15:29:58 +0000     6504 bytes  docs/image/esdoc-logo-mini.png</tspan>
-<tspan x="10" y="3242">194.  2017-04-21 15:29:58 +0000     4268 bytes  docs/image/github.png</tspan>
-<tspan x="10" y="3258">195.  2017-04-21 15:29:58 +0000      792 bytes  docs/image/manual-badge.svg</tspan>
-<tspan x="10" y="3274">196.  2017-04-21 15:29:58 +0000    12704 bytes  docs/image/search.png</tspan>
-<tspan x="10" y="3290">197.  2017-04-21 15:29:58 +0000    15447 bytes  docs/index.html</tspan>
-<tspan x="10" y="3306">198.  2017-04-21 15:29:58 +0000     4202 bytes  docs/package.json</tspan>
-<tspan x="10" y="3322">199.  2017-04-21 15:29:58 +0000      815 bytes  docs/script/inherited-summary.js</tspan>
-<tspan x="10" y="3338">200.  2017-04-21 15:29:58 +0000      935 bytes  docs/script/inner-link.js</tspan>
-<tspan x="10" y="3354">201.  2017-04-21 15:29:58 +0000      414 bytes  docs/script/manual.js</tspan>
-<tspan x="10" y="3370">202.  2017-04-21 15:29:58 +0000      207 bytes  docs/script/patch-for-local.js</tspan>
-<tspan x="10" y="3386">203.  2017-04-21 15:29:58 +0000    11358 bytes  docs/script/prettify/Apache-License-2.0.txt</tspan>
-<tspan x="10" y="3402">204.  2017-04-21 15:29:58 +0000    13632 bytes  docs/script/prettify/prettify.js</tspan>
-<tspan x="10" y="3418">205.  2017-04-21 15:29:58 +0000      759 bytes  docs/script/pretty-print.js</tspan>
-<tspan x="10" y="3434">206.  2017-04-21 15:29:58 +0000     3541 bytes  docs/script/search.js</tspan>
-<tspan x="10" y="3450">207.  2017-04-21 15:29:58 +0000    16161 bytes  docs/script/search_index.js</tspan>
-<tspan x="10" y="3466">208.  2017-04-21 15:29:58 +0000     1759 bytes  docs/script/test-summary.js</tspan>
-<tspan x="10" y="3482">209.  2017-04-21 15:29:58 +0000    10369 bytes  docs/source.html</tspan>
-<tspan x="10" y="3498">210.  2017-04-21 15:29:58 +0000    31522 bytes  docs/typedef/index.html</tspan>
-<tspan x="10" y="3514">211.  2017-04-21 15:29:58 +0000     1172 bytes  gulpfile.babel.js</tspan>
-<tspan x="10" y="3530">212.  2017-04-21 15:29:58 +0000     1757 bytes  issue_template.md</tspan>
-<tspan x="10" y="3546">213.  2017-04-21 15:29:58 +0000     4911 bytes  package.json</tspan>
-<tspan x="10" y="3562">214.  2017-04-21 15:29:58 +0000      672 bytes  pull_request_template.md</tspan>
-<tspan x="10" y="3578">215.  2017-04-21 15:29:58 +0000     1196 bytes  res/default.pvk</tspan>
-<tspan x="10" y="3594">216.  2017-04-21 15:29:58 +0000      173 bytes  script/vscode.cmd</tspan>
-<tspan x="10" y="3610">217.  2017-04-21 15:29:58 +0000      184 bytes  script/vscode.sh</tspan>
-<tspan x="10" y="3626">218.  2017-04-21 15:29:58 +0000      432 bytes  tabtab-install.js</tspan>
-<tspan x="10" y="3642">219.  2017-04-21 15:29:58 +0000      533 bytes  tmpl/_compilerc</tspan>
-<tspan x="10" y="3658">220.  2017-04-21 15:29:58 +0000      216 bytes  tmpl/_eslintrc</tspan>
-<tspan x="10" y="3674">221.  2017-04-21 15:29:58 +0000       17 bytes  tmpl/_gitignore</tspan>
-<tspan x="10" y="3690">222.  2017-04-21 15:29:58 +0000      138 bytes  tmpl/index.html</tspan>
-<tspan x="10" y="3706">223.  2017-04-21 15:29:58 +0000     1655 bytes  tmpl/index.js</tspan>
-<tspan x="10" y="3722">224.  2017-04-21 15:29:58 +0000      807 bytes  tmpl/package.json</tspan>
+<tspan x="10" y="1194"> 66.  2017-04-21 15:31:56 +0000     4047 bytes  coverage/lcov-report/util/rebuild.js.html</tspan>
+<tspan x="10" y="1210"> 67.  2017-04-21 15:31:56 +0000     4137 bytes  coverage/lcov-report/util/require-search.js.html</tspan>
+<tspan x="10" y="1226"> 68.  2017-04-21 15:31:56 +0000     5444 bytes  coverage/lcov-report/util/resolve-dir.js.html</tspan>
+<tspan x="10" y="1242"> 69.  2017-04-21 15:31:56 +0000    19844 bytes  coverage/lcov.info</tspan>
+<tspan x="10" y="1258"> 70.  2017-04-21 15:31:56 +0000     3572 bytes  coverage/makers/generic/index.html</tspan>
+<tspan x="10" y="1274"> 71.  2017-04-21 15:31:56 +0000     6329 bytes  coverage/makers/generic/zip.js.html</tspan>
+<tspan x="10" y="1290"> 72.  2017-04-21 15:31:56 +0000     5286 bytes  coverage/makers/linux/deb.js.html</tspan>
+<tspan x="10" y="1306"> 73.  2017-04-21 15:31:56 +0000     5163 bytes  coverage/makers/linux/flatpak.js.html</tspan>
+<tspan x="10" y="1322"> 74.  2017-04-21 15:31:56 +0000     4905 bytes  coverage/makers/linux/index.html</tspan>
+<tspan x="10" y="1338"> 75.  2017-04-21 15:31:56 +0000     5273 bytes  coverage/makers/linux/rpm.js.html</tspan>
+<tspan x="10" y="1354"> 76.  2017-04-21 15:31:56 +0000      676 bytes  coverage/prettify.css</tspan>
+<tspan x="10" y="1370"> 77.  2017-04-21 15:31:56 +0000    17569 bytes  coverage/prettify.js</tspan>
+<tspan x="10" y="1386"> 78.  2017-04-21 15:31:56 +0000      209 bytes  coverage/sort-arrow-sprite.png</tspan>
+<tspan x="10" y="1402"> 79.  2017-04-21 15:31:56 +0000     5174 bytes  coverage/sorter.js</tspan>
+<tspan x="10" y="1418"> 80.  2017-04-21 15:31:56 +0000     3231 bytes  coverage/util/check-system.js.html</tspan>
+<tspan x="10" y="1434"> 81.  2017-04-21 15:31:56 +0000     5913 bytes  coverage/util/compile-hook.js.html</tspan>
+<tspan x="10" y="1450"> 82.  2017-04-21 15:31:56 +0000     5873 bytes  coverage/util/config.js.html</tspan>
+<tspan x="10" y="1466"> 83.  2017-04-21 15:31:56 +0000     3141 bytes  coverage/util/confirm-if-interactive.js.html</tspan>
+<tspan x="10" y="1482"> 84.  2017-04-21 15:31:56 +0000     2944 bytes  coverage/util/electron-host-arch.js.html</tspan>
+<tspan x="10" y="1498"> 85.  2017-04-21 15:31:56 +0000     3950 bytes  coverage/util/ensure-output.js.html</tspan>
+<tspan x="10" y="1514"> 86.  2017-04-21 15:31:56 +0000     7149 bytes  coverage/util/forge-config.js.html</tspan>
+<tspan x="10" y="1530"> 87.  2017-04-21 15:31:56 +0000     4145 bytes  coverage/util/github.js.html</tspan>
+<tspan x="10" y="1546"> 88.  2017-04-21 15:31:56 +0000    13191 bytes  coverage/util/index.html</tspan>
+<tspan x="10" y="1562"> 89.  2017-04-21 15:31:56 +0000     5778 bytes  coverage/util/install-dependencies.js.html</tspan>
+<tspan x="10" y="1578"> 90.  2017-04-21 15:31:56 +0000     5791 bytes  coverage/util/ora-handler.js.html</tspan>
+<tspan x="10" y="1594"> 91.  2017-04-21 15:31:56 +0000     5842 bytes  coverage/util/ora.js.html</tspan>
+<tspan x="10" y="1610"> 92.  2017-04-21 15:31:56 +0000     2792 bytes  coverage/util/read-package-json.js.html</tspan>
+<tspan x="10" y="1626"> 93.  2017-04-21 15:31:56 +0000     4047 bytes  coverage/util/rebuild.js.html</tspan>
+<tspan x="10" y="1642"> 94.  2017-04-21 15:31:56 +0000     4137 bytes  coverage/util/require-search.js.html</tspan>
+<tspan x="10" y="1658"> 95.  2017-04-21 15:31:56 +0000     5444 bytes  coverage/util/resolve-dir.js.html</tspan>
+<tspan x="10" y="1674"> 96.  2017-04-21 15:31:56 +0000    24192 bytes  dist/api/import.js</tspan>
+<tspan x="10" y="1690"> 97.  2017-04-21 15:31:56 +0000     1433 bytes  dist/api/index.js</tspan>
+<tspan x="10" y="1706"> 98.  2017-04-21 15:31:56 +0000     4511 bytes  dist/api/init.js</tspan>
+<tspan x="10" y="1722"> 99.  2017-04-21 15:31:56 +0000    14421 bytes  dist/api/install.js</tspan>
+<tspan x="10" y="1738">100.  2017-04-21 15:31:56 +0000     5566 bytes  dist/api/lint.js</tspan>
+<tspan x="10" y="1754">101.  2017-04-21 15:31:56 +0000    16082 bytes  dist/api/make.js</tspan>
+<tspan x="10" y="1770">102.  2017-04-21 15:31:56 +0000    14446 bytes  dist/api/package.js</tspan>
+<tspan x="10" y="1786">103.  2017-04-21 15:31:56 +0000     8938 bytes  dist/api/publish.js</tspan>
+<tspan x="10" y="1802">104.  2017-04-21 15:31:56 +0000     6024 bytes  dist/api/start.js</tspan>
+<tspan x="10" y="1818">105.  2017-04-21 15:31:56 +0000     1422 bytes  dist/electron-forge-import.js</tspan>
+<tspan x="10" y="1834">106.  2017-04-21 15:31:56 +0000     1750 bytes  dist/electron-forge-init.js</tspan>
+<tspan x="10" y="1850">107.  2017-04-21 15:31:56 +0000     1235 bytes  dist/electron-forge-install.js</tspan>
+<tspan x="10" y="1866">108.  2017-04-21 15:31:56 +0000     1512 bytes  dist/electron-forge-lint.js</tspan>
+<tspan x="10" y="1882">109.  2017-04-21 15:31:56 +0000     2473 bytes  dist/electron-forge-make.js</tspan>
+<tspan x="10" y="1898">110.  2017-04-21 15:31:56 +0000     1973 bytes  dist/electron-forge-package.js</tspan>
+<tspan x="10" y="1914">111.  2017-04-21 15:31:56 +0000     2184 bytes  dist/electron-forge-publish.js</tspan>
+<tspan x="10" y="1930">112.  2017-04-21 15:31:56 +0000     3319 bytes  dist/electron-forge-start.js</tspan>
+<tspan x="10" y="1946">113.  2017-04-21 15:31:56 +0000     3588 bytes  dist/electron-forge.js</tspan>
+<tspan x="10" y="1962">114.  2017-04-21 15:31:56 +0000      107 bytes  dist/forge-import.js</tspan>
+<tspan x="10" y="1978">115.  2017-04-21 15:31:56 +0000      105 bytes  dist/forge-init.js</tspan>
+<tspan x="10" y="1994">116.  2017-04-21 15:31:56 +0000      108 bytes  dist/forge-install.js</tspan>
+<tspan x="10" y="2010">117.  2017-04-21 15:31:56 +0000      105 bytes  dist/forge-lint.js</tspan>
+<tspan x="10" y="2026">118.  2017-04-21 15:31:56 +0000      105 bytes  dist/forge-make.js</tspan>
+<tspan x="10" y="2042">119.  2017-04-21 15:31:56 +0000      108 bytes  dist/forge-package.js</tspan>
+<tspan x="10" y="2058">120.  2017-04-21 15:31:56 +0000      108 bytes  dist/forge-publish.js</tspan>
+<tspan x="10" y="2074">121.  2017-04-21 15:31:56 +0000      106 bytes  dist/forge-start.js</tspan>
+<tspan x="10" y="2090">122.  2017-04-21 15:31:56 +0000      100 bytes  dist/forge.js</tspan>
+<tspan x="10" y="2106">123.  2017-04-21 15:31:56 +0000     8887 bytes  dist/init/init-custom.js</tspan>
+<tspan x="10" y="2122">124.  2017-04-21 15:31:56 +0000     3441 bytes  dist/init/init-directory.js</tspan>
+<tspan x="10" y="2138">125.  2017-04-21 15:31:56 +0000     3914 bytes  dist/init/init-git.js</tspan>
+<tspan x="10" y="2154">126.  2017-04-21 15:31:56 +0000    10194 bytes  dist/init/init-npm.js</tspan>
+<tspan x="10" y="2170">127.  2017-04-21 15:31:56 +0000     2339 bytes  dist/init/init-standard-fix.js</tspan>
+<tspan x="10" y="2186">128.  2017-04-21 15:31:56 +0000     5231 bytes  dist/init/init-starter-files.js</tspan>
+<tspan x="10" y="2202">129.  2017-04-21 15:31:56 +0000     2996 bytes  dist/installers/darwin/dmg.js</tspan>
+<tspan x="10" y="2218">130.  2017-04-21 15:31:56 +0000     2816 bytes  dist/installers/darwin/zip.js</tspan>
+<tspan x="10" y="2234">131.  2017-04-21 15:31:56 +0000      993 bytes  dist/installers/linux/deb.js</tspan>
+<tspan x="10" y="2250">132.  2017-04-21 15:31:56 +0000     1018 bytes  dist/installers/linux/rpm.js</tspan>
+<tspan x="10" y="2266">133.  2017-04-21 15:31:56 +0000     1065 bytes  dist/installers/win32/exe.js</tspan>
+<tspan x="10" y="2282">134.  2017-04-21 15:31:56 +0000     2077 bytes  dist/makers/darwin/dmg.js</tspan>
+<tspan x="10" y="2298">135.  2017-04-21 15:31:56 +0000     3024 bytes  dist/makers/generic/zip.js</tspan>
+<tspan x="10" y="2314">136.  2017-04-21 15:31:56 +0000     2425 bytes  dist/makers/linux/deb.js</tspan>
+<tspan x="10" y="2330">137.  2017-04-21 15:31:56 +0000     2422 bytes  dist/makers/linux/flatpak.js</tspan>
+<tspan x="10" y="2346">138.  2017-04-21 15:31:56 +0000     2406 bytes  dist/makers/linux/rpm.js</tspan>
+<tspan x="10" y="2362">139.  2017-04-21 15:31:56 +0000     5679 bytes  dist/makers/win32/appx.js</tspan>
+<tspan x="10" y="2378">140.  2017-04-21 15:31:56 +0000     3534 bytes  dist/makers/win32/squirrel.js</tspan>
+<tspan x="10" y="2394">141.  2017-04-21 15:31:56 +0000     8260 bytes  dist/publishers/github.js</tspan>
+<tspan x="10" y="2410">142.  2017-04-21 15:31:56 +0000     6596 bytes  dist/publishers/s3.js</tspan>
+<tspan x="10" y="2426">143.  2017-04-21 15:31:56 +0000      358 bytes  dist/util/check-supported-platforms.js</tspan>
+<tspan x="10" y="2442">144.  2017-04-21 15:31:56 +0000     1330 bytes  dist/util/check-system.js</tspan>
+<tspan x="10" y="2458">145.  2017-04-21 15:31:56 +0000     7613 bytes  dist/util/compile-hook.js</tspan>
+<tspan x="10" y="2474">146.  2017-04-21 15:31:56 +0000     2405 bytes  dist/util/config.js</tspan>
+<tspan x="10" y="2490">147.  2017-04-21 15:31:56 +0000     1491 bytes  dist/util/confirm-if-interactive.js</tspan>
+<tspan x="10" y="2506">148.  2017-04-21 15:31:56 +0000      549 bytes  dist/util/deprecate.js</tspan>
+<tspan x="10" y="2522">149.  2017-04-21 15:31:56 +0000      244 bytes  dist/util/electron-host-arch.js</tspan>
+<tspan x="10" y="2538">150.  2017-04-21 15:31:56 +0000     2654 bytes  dist/util/ensure-output.js</tspan>
+<tspan x="10" y="2554">151.  2017-04-21 15:31:56 +0000     6064 bytes  dist/util/forge-config.js</tspan>
+<tspan x="10" y="2570">152.  2017-04-21 15:31:56 +0000     1366 bytes  dist/util/github.js</tspan>
+<tspan x="10" y="2586">153.  2017-04-21 15:31:56 +0000     5016 bytes  dist/util/hdiutil.js</tspan>
+<tspan x="10" y="2602">154.  2017-04-21 15:31:56 +0000     2188 bytes  dist/util/install-dependencies.js</tspan>
+<tspan x="10" y="2618">155.  2017-04-21 15:31:56 +0000     2867 bytes  dist/util/linux-installer.js</tspan>
+<tspan x="10" y="2634">156.  2017-04-21 15:31:56 +0000      307 bytes  dist/util/messages.js</tspan>
+<tspan x="10" y="2650">157.  2017-04-21 15:31:56 +0000     3490 bytes  dist/util/move-app.js</tspan>
+<tspan x="10" y="2666">158.  2017-04-21 15:31:56 +0000     2646 bytes  dist/util/ora-handler.js</tspan>
+<tspan x="10" y="2682">159.  2017-04-21 15:31:56 +0000     1100 bytes  dist/util/ora.js</tspan>
+<tspan x="10" y="2698">160.  2017-04-21 15:31:56 +0000     1268 bytes  dist/util/read-package-json.js</tspan>
+<tspan x="10" y="2714">161.  2017-04-21 15:31:56 +0000     2750 bytes  dist/util/rebuild.js</tspan>
+<tspan x="10" y="2730">162.  2017-04-21 15:31:56 +0000     1965 bytes  dist/util/require-search.js</tspan>
+<tspan x="10" y="2746">163.  2017-04-21 15:31:56 +0000     3094 bytes  dist/util/resolve-dir.js</tspan>
+<tspan x="10" y="2762">164.  2017-04-21 15:31:56 +0000     1427 bytes  dist/util/sudo-promise.js</tspan>
+<tspan x="10" y="2778">165.  2017-04-21 15:31:56 +0000     1268 bytes  dist/util/terminate.js</tspan>
+<tspan x="10" y="2794">166.  2017-04-21 15:31:56 +0000  1334990 bytes  docs/ast/source/import.js.json</tspan>
+<tspan x="10" y="2810">167.  2017-04-21 15:31:56 +0000    68696 bytes  docs/ast/source/index.js.json</tspan>
+<tspan x="10" y="2826">168.  2017-04-21 15:31:56 +0000   233563 bytes  docs/ast/source/init.js.json</tspan>
+<tspan x="10" y="2842">169.  2017-04-21 15:31:56 +0000  1047413 bytes  docs/ast/source/install.js.json</tspan>
+<tspan x="10" y="2858">170.  2017-04-21 15:31:56 +0000   389839 bytes  docs/ast/source/lint.js.json</tspan>
+<tspan x="10" y="2874">171.  2017-04-21 15:31:56 +0000   709472 bytes  docs/ast/source/make.js.json</tspan>
+<tspan x="10" y="2890">172.  2017-04-21 15:31:56 +0000   633526 bytes  docs/ast/source/package.js.json</tspan>
+<tspan x="10" y="2906">173.  2017-04-21 15:31:56 +0000   263838 bytes  docs/ast/source/publish.js.json</tspan>
+<tspan x="10" y="2922">174.  2017-04-21 15:31:56 +0000   278264 bytes  docs/ast/source/start.js.json</tspan>
+<tspan x="10" y="2938">175.  2017-04-21 15:31:56 +0000      793 bytes  docs/badge.svg</tspan>
+<tspan x="10" y="2954">176.  2017-04-21 15:31:56 +0000      925 bytes  docs/coverage.json</tspan>
+<tspan x="10" y="2970">177.  2017-04-21 15:31:56 +0000     2026 bytes  docs/css/prettify-tomorrow.css</tspan>
+<tspan x="10" y="2986">178.  2017-04-21 15:31:56 +0000    15742 bytes  docs/css/style.css</tspan>
+<tspan x="10" y="3002">179.  2017-04-21 15:31:56 +0000    79326 bytes  docs/dump.json</tspan>
+<tspan x="10" y="3018">180.  2017-04-21 15:31:56 +0000    14115 bytes  docs/file/api/import.js.html</tspan>
+<tspan x="10" y="3034">181.  2017-04-21 15:31:56 +0000     5286 bytes  docs/file/api/index.js.html</tspan>
+<tspan x="10" y="3050">182.  2017-04-21 15:31:56 +0000     6903 bytes  docs/file/api/init.js.html</tspan>
+<tspan x="10" y="3066">183.  2017-04-21 15:31:56 +0000    11104 bytes  docs/file/api/install.js.html</tspan>
+<tspan x="10" y="3082">184.  2017-04-21 15:31:56 +0000     7194 bytes  docs/file/api/lint.js.html</tspan>
+<tspan x="10" y="3098">185.  2017-04-21 15:31:56 +0000     9830 bytes  docs/file/api/make.js.html</tspan>
+<tspan x="10" y="3114">186.  2017-04-21 15:31:56 +0000     8774 bytes  docs/file/api/package.js.html</tspan>
+<tspan x="10" y="3130">187.  2017-04-21 15:31:56 +0000     7078 bytes  docs/file/api/publish.js.html</tspan>
+<tspan x="10" y="3146">188.  2017-04-21 15:31:56 +0000     7007 bytes  docs/file/api/start.js.html</tspan>
+<tspan x="10" y="3162">189.  2017-04-21 15:31:56 +0000    30895 bytes  docs/function/index.html</tspan>
+<tspan x="10" y="3178">190.  2017-04-21 15:31:56 +0000    17498 bytes  docs/identifiers.html</tspan>
+<tspan x="10" y="3194">191.  2017-04-21 15:31:56 +0000      799 bytes  docs/image/badge.svg</tspan>
+<tspan x="10" y="3210">192.  2017-04-21 15:31:56 +0000     5651 bytes  docs/image/esdoc-logo-mini-black.png</tspan>
+<tspan x="10" y="3226">193.  2017-04-21 15:31:56 +0000     6504 bytes  docs/image/esdoc-logo-mini.png</tspan>
+<tspan x="10" y="3242">194.  2017-04-21 15:31:56 +0000     4268 bytes  docs/image/github.png</tspan>
+<tspan x="10" y="3258">195.  2017-04-21 15:31:56 +0000      792 bytes  docs/image/manual-badge.svg</tspan>
+<tspan x="10" y="3274">196.  2017-04-21 15:31:56 +0000    12704 bytes  docs/image/search.png</tspan>
+<tspan x="10" y="3290">197.  2017-04-21 15:31:56 +0000    15447 bytes  docs/index.html</tspan>
+<tspan x="10" y="3306">198.  2017-04-21 15:31:56 +0000     4202 bytes  docs/package.json</tspan>
+<tspan x="10" y="3322">199.  2017-04-21 15:31:56 +0000      815 bytes  docs/script/inherited-summary.js</tspan>
+<tspan x="10" y="3338">200.  2017-04-21 15:31:56 +0000      935 bytes  docs/script/inner-link.js</tspan>
+<tspan x="10" y="3354">201.  2017-04-21 15:31:56 +0000      414 bytes  docs/script/manual.js</tspan>
+<tspan x="10" y="3370">202.  2017-04-21 15:31:56 +0000      207 bytes  docs/script/patch-for-local.js</tspan>
+<tspan x="10" y="3386">203.  2017-04-21 15:31:56 +0000    11358 bytes  docs/script/prettify/Apache-License-2.0.txt</tspan>
+<tspan x="10" y="3402">204.  2017-04-21 15:31:56 +0000    13632 bytes  docs/script/prettify/prettify.js</tspan>
+<tspan x="10" y="3418">205.  2017-04-21 15:31:56 +0000      759 bytes  docs/script/pretty-print.js</tspan>
+<tspan x="10" y="3434">206.  2017-04-21 15:31:56 +0000     3541 bytes  docs/script/search.js</tspan>
+<tspan x="10" y="3450">207.  2017-04-21 15:31:56 +0000    16161 bytes  docs/script/search_index.js</tspan>
+<tspan x="10" y="3466">208.  2017-04-21 15:31:56 +0000     1759 bytes  docs/script/test-summary.js</tspan>
+<tspan x="10" y="3482">209.  2017-04-21 15:31:56 +0000    10369 bytes  docs/source.html</tspan>
+<tspan x="10" y="3498">210.  2017-04-21 15:31:56 +0000    31522 bytes  docs/typedef/index.html</tspan>
+<tspan x="10" y="3514">211.  2017-04-21 15:31:56 +0000     1172 bytes  gulpfile.babel.js</tspan>
+<tspan x="10" y="3530">212.  2017-04-21 15:31:56 +0000     1757 bytes  issue_template.md</tspan>
+<tspan x="10" y="3546">213.  2017-04-21 15:31:56 +0000     4911 bytes  package.json</tspan>
+<tspan x="10" y="3562">214.  2017-04-21 15:31:56 +0000      672 bytes  pull_request_template.md</tspan>
+<tspan x="10" y="3578">215.  2017-04-21 15:31:56 +0000     1196 bytes  res/default.pvk</tspan>
+<tspan x="10" y="3594">216.  2017-04-21 15:31:56 +0000      173 bytes  script/vscode.cmd</tspan>
+<tspan x="10" y="3610">217.  2017-04-21 15:31:56 +0000      184 bytes  script/vscode.sh</tspan>
+<tspan x="10" y="3626">218.  2017-04-21 15:31:56 +0000      432 bytes  tabtab-install.js</tspan>
+<tspan x="10" y="3642">219.  2017-04-21 15:31:56 +0000      533 bytes  tmpl/_compilerc</tspan>
+<tspan x="10" y="3658">220.  2017-04-21 15:31:56 +0000      216 bytes  tmpl/_eslintrc</tspan>
+<tspan x="10" y="3674">221.  2017-04-21 15:31:56 +0000       17 bytes  tmpl/_gitignore</tspan>
+<tspan x="10" y="3690">222.  2017-04-21 15:31:56 +0000      138 bytes  tmpl/index.html</tspan>
+<tspan x="10" y="3706">223.  2017-04-21 15:31:56 +0000     1655 bytes  tmpl/index.js</tspan>
+<tspan x="10" y="3722">224.  2017-04-21 15:31:56 +0000      807 bytes  tmpl/package.json</tspan>
 </text>
 </svg>
